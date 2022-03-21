@@ -11,7 +11,7 @@
 ## Description
 The production of a high brillance muon beam is one of the most important challenge for the future of Particle Physics. 
 A particularly interesting idea consists of directing a beam of high energy positrons to a target, aiming at the production of a pair
-of muons through the $$e^+ + e^- \\rightarrow \\mu^+ + \\mu^-$$ process. To mimize the divergence of the resulting "muon beam", the positrons energy 
+of muons through the scattering positron-electron into muon pair process. To mimize the divergence of the resulting "muon beam", the positrons energy 
 is chosen so that the reaction occurs close to the kinematical threshold (and assuming the electrons in the target to be at rest). 
 The main goal of this project is to produce a realistic Monte Carlo simulation of such a process.
 
