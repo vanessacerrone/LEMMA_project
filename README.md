@@ -1,5 +1,9 @@
 # LEMMA project - Muon Source Monte Carlo simulation 
-High Level Programming - Univeristy of Padova 
+High Level Programming - University of Padova 
+
+### Prerequisites
+
+![versions](https://img.shields.io/pypi/pyversions/pybadges.svg)
 
 
 ## Authors
