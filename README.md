@@ -21,7 +21,7 @@ of muons through the scattering positron-electron into muon pair process. To mim
 is chosen so that the reaction occurs close to the kinematical threshold (and assuming the electrons in the target to be at rest). 
 The main goal of this project is to produce a realistic Monte Carlo simulation of such a process.
 
-The complete project with the code and the results can be found [**here**](https://github.com/vanessacerrone/LEMMA_project/blob/main/project_final.ipynb).
+The complete project with the code and the results can be found [**here**](https://github.com/vanessacerrone/LEMMA_project/blob/main/Project_group20.ipynb).
 
 ## References
 [Calculations](http://www.physics.usu.edu/Wheeler/QFT/PicsII/QFT10Feb23Muon.pdf): *Electron-positron annihilation into muon-antimuon pairs*. \
